@@ -1,2 +1,2 @@
-# django-web-app
-Django backend app
+# fastapi-web-app
+Fastapi backend app
